@@ -1,0 +1,7 @@
+---
+theme :
+  name : spihub
+layout: hummingbird
+---
+{% include JB/setup %}
+{% include themes/spihub/hummingbird.html %}

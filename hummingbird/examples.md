@@ -7,5 +7,5 @@ description: ""
 {% include JB/setup %}
 
 ```
-a = 2 * b
+a = 4 * b
 ```

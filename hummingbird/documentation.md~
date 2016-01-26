@@ -1,8 +1,0 @@
----
-layout: forwarding
-title: Documentation
-group: hummingbird
-url: http://spidocs.readthedocs.org/en/latest
-description: ""
----
-{% include JB/setup %}

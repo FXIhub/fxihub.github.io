@@ -1,5 +1,5 @@
 ---
-layout: forwarding
+layout: documentation
 title: Documentation
 group: hummingbird
 forwarding: http://spidocs.readthedocs.org/en/latest

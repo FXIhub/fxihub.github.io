@@ -6,8 +6,6 @@ description: ""
 ---
 {% include JB/setup %}
 
-
 ```
 a = 2 * b
 ```
-

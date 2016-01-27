@@ -30,15 +30,15 @@ $$a = \int_x f(x) dx$$
 
 $$ \mathbf{X} = \mathbf{Z} \mathbf{P^\mathsf{T}} $$
 
-# Fancy stuff
-<p>4 + 6 = <span ng-bind="4+6"></span></p>
+<!-- # Fancy stuff -->
+<!-- <p>4 + 6 = <span ng-bind="4+6"></span></p> -->
 
-# StoreController (from tutorial)
-<div ng-controller="StoreController as store">
-    <div ng-repeat="product in store.products">
-        <h1><span ng-bind="product.name"</span></h1>
-        <h2>$<span ng-bind="product.price"</span></h2>
-        <p><span ng-bind="product.description"</span></p>
-        <button ng-show="product.canPurchase">Add to Cart</button>
-    </div>
-</div>
+<!-- # StoreController (from tutorial) -->
+<!-- <div ng-controller="StoreController as store"> -->
+<!--     <div ng-repeat="product in store.products"> -->
+<!--         <h1><span ng-bind="product.name"</span></h1> -->
+<!--         <h2>$<span ng-bind="product.price"</span></h2> -->
+<!--         <p><span ng-bind="product.description"</span></p> -->
+<!--         <button ng-show="product.canPurchase">Add to Cart</button> -->
+<!--     </div> -->
+<!-- </div> -->

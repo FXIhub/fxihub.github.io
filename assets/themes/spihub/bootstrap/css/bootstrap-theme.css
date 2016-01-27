@@ -363,11 +363,11 @@ fieldset[disabled] .btn-danger.active {
   text-shadow: 0 1px 0 rgba(255, 255, 255, .25);
 }
 .navbar-inverse {
-  background-image: -webkit-linear-gradient(top, #000050 0%, #000050 100%);
-  background-image:      -o-linear-gradient(top, #000050 0%, #000050 100%);
-  background-image: -webkit-gradient(linear, left top, left bottom, from(#000050), to(#000050));
-  background-image:         linear-gradient(to bottom, #00050 0%, #000050 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#000050', endColorstr='#000050', GradientType=0);
+  background-image: -webkit-linear-gradient(top, #000000 0%, #000000 100%);
+  background-image:      -o-linear-gradient(top, #000000 0%, #000000 100%);
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#000000), to(#000000));
+  background-image:         linear-gradient(to bottom, #00000 0%, #000000 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#000000', endColorstr='#000000', GradientType=0);
   filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
   background-repeat: repeat-x;
   border-radius: 4px;

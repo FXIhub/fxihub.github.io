@@ -49,12 +49,10 @@ tagline: Supporting tagline
 <div class="row">
 	<div class="col-sm-6 col-md-4">
 		<div class="thumbnail">
-	        <img src="hummingbird/logo.png" alt="Hummingbird">
+	        <a href="hummingbird"><img src="hummingbird/logo.png" alt="Hummingbird"></a>
 			<div class="caption">
-				<h3>Hummingbird</h3>
-				<!-- <p><a href="https://zenodo.org/badge/latestdoi/19337/SPIhub/hummingbird"><img src="https://zenodo.org/badge/19337/SPIhub/hummingbird.svg" alt="10.5281/zenodo.34155"></a></p> -->
-				<p>A framework for online analysis of Single Particle Imaging experiments using X-ray free-electron lasers. 
-				</p>
+				<a href="hummingbird"><h3>Hummingbird</h3></a>
+				<p>A framework for online analysis of Single Particle Imaging experiments using X-ray free-electron lasers. </p>
 				<p><a href="https://github.com/SPIhub/hummingbird" class="btn btn-danger" role="button">Code on Github</a> <a href="hummingbird/docs" class="btn btn-info" role="button">Documentation</a></p>
 			</div>
 		</div>

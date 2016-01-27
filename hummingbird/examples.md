@@ -6,6 +6,21 @@ description: ""
 ---
 {% include JB/setup %}
 
+
+{% highlight python %}
+def test(self):
+    a = 4 * b
+    print a
+{% endhighlight %}
+
+```pythong
+def test(self):
+    a = 4 * b
+    print a
 ```
-a = 4 * b
-```
+
+{% highlight ruby %}
+def foo
+    puts 'foo'
+    end
+{% endhighlight %}

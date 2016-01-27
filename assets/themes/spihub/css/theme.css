@@ -99,3 +99,28 @@ h1, h2, h3, h4 {
   background: #57A957;
   border: 1px solid #4c964d;
   color: #FFF; }
+
+hr {
+    background-color: #ff8a01;
+    color: #ff8a01;
+    height: 3px;
+}
+
+.thumbnail.right-caption > img {
+    float: left;
+    margin-right: 9px;
+}
+
+.thumbnail.right-caption {
+    float: left;
+}
+
+.thumbnail.right-caption > .caption {
+    padding: 4px;
+}
+
+.img-height {
+    min-height:150px;
+    max-height:300px;
+    display: block;
+}

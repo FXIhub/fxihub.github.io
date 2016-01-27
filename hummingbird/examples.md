@@ -28,7 +28,7 @@ def foo
 # Some math
 $$a = \int_x f(x) dx$$
 
-\\[ \mathbf{X} = \mathbf{Z} \mathbf{P^\mathsf{T}} \\]
+$$ \mathbf{X} = \mathbf{Z} \mathbf{P^\mathsf{T}} $$
 
 # Fancy stuff
 <p>4 + 6 = <span ng-bind="4+6"></span></p>

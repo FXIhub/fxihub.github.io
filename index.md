@@ -78,5 +78,3 @@ tagline: Supporting tagline
 		</div>
 	</div>
 </div>
-
-<hr>

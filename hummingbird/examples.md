@@ -13,7 +13,7 @@ def test(self):
     print a
 {% endhighlight %}
 
-```pythong
+```python
 def test(self):
     a = 4 * b
     print a

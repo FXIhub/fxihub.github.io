@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="210mm" width="297mm" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 1052.3622 744.09448">
+ <defs id="defs4">
+  <filter id="filter4193" style="color-interpolation-filters:sRGB">
+   <feGaussianBlur id="feGaussianBlur4195" stdDeviation="1" result="result1"/>
+   <feComposite id="feComposite4197" operator="in" result="result4" in2="result1" in="result1"/>
+   <feBlend id="feBlend4199" result="result5" mode="screen" in2="result4" in="result1"/>
+   <feGaussianBlur id="feGaussianBlur4201" stdDeviation="8" result="result6" in="result5"/>
+   <feComposite id="feComposite4203" operator="atop" result="result8" in2="result5" in="result6"/>
+   <feComposite id="feComposite4205" operator="in" result="fbSourceGraphic" in2="result8" in="result6"/>
+   <feGaussianBlur id="feGaussianBlur4207" stdDeviation="2.5" result="result0" in="fbSourceGraphic"/>
+   <feSpecularLighting id="feSpecularLighting4209" lighting-color="rgb(255,255,255)" specularConstant="1.5" result="result1" specularExponent="45" in="result0" surfaceScale="1">
+    <fePointLight id="fePointLight4211" y="-9000" x="-6000" z="21000"/>
+   </feSpecularLighting>
+   <feComposite id="feComposite4213" operator="in" result="result2" in2="fbSourceGraphic" in="result1"/>
+   <feComposite id="feComposite4215" in2="result2" k3="1" k2="1" result="result4" in="fbSourceGraphic" operator="arithmetic"/>
+   <feComposite id="feComposite4217" operator="in" result="result91" in2="result4" in="result9"/>
+   <feBlend id="feBlend4219" mode="multiply" in2="result91"/>
+  </filter>
+  <filter id="filter4249" style="color-interpolation-filters:sRGB">
+   <feGaussianBlur id="feGaussianBlur4251" stdDeviation="1" result="result1"/>
+   <feComposite id="feComposite4253" operator="in" result="result4" in2="result1" in="result1"/>
+   <feBlend id="feBlend4255" result="result5" mode="screen" in2="result4" in="result1"/>
+   <feGaussianBlur id="feGaussianBlur4257" stdDeviation="8" result="result6" in="result5"/>
+   <feComposite id="feComposite4259" operator="atop" result="result8" in2="result5" in="result6"/>
+   <feComposite id="feComposite4261" operator="in" result="fbSourceGraphic" in2="result8" in="result6"/>
+   <feGaussianBlur id="feGaussianBlur4263" stdDeviation="2.5" result="result0" in="fbSourceGraphic"/>
+   <feSpecularLighting id="feSpecularLighting4265" lighting-color="rgb(255,255,255)" specularConstant="1.5" result="result1" specularExponent="45" in="result0" surfaceScale="1">
+    <fePointLight id="fePointLight4267" y="-9000" x="-6000" z="21000"/>
+   </feSpecularLighting>
+   <feComposite id="feComposite4269" operator="in" result="result2" in2="fbSourceGraphic" in="result1"/>
+   <feComposite id="feComposite4271" in2="result2" k3="1" k2="1" result="result4" in="fbSourceGraphic" operator="arithmetic"/>
+   <feComposite id="feComposite4273" operator="in" result="result91" in2="result4" in="result9"/>
+   <feBlend id="feBlend4275" mode="multiply" in2="result91"/>
+  </filter>
+ </defs>
+ <g id="layer1" transform="translate(0 -308.27)">
+  <path id="path4141" fill-opacity="0" d="m634.38 910.44a45.962 28.789 0 0 1 -45 28.78 45.962 28.789 0 0 1 -46.89 -27.57"/>
+  <g id="g4277" fill="#0000cd" transform="translate(-78.792 47.477)">
+   <ellipse id="path4174" rx="80.301" transform="matrix(.99998 .0063245 -.029184 .99957 0 0)" ry="17.185" filter="url(#filter4249)" cy="840.85" cx="597.81" fill="#000"/>
+   <path id="rect4136" stroke-linejoin="round" d="m280.68 73.131c-5.0832 0-9.1758 4.0925-9.1758 9.1758v374.03c0 5.0833 4.0925 9.1758 9.1758 9.1758h596.27c5.0833 0 9.1758-4.0925 9.1758-9.1758v-374.03c0-5.0833-4.0925-9.1758-9.1758-9.1758h-596.27zm286.32 401.94c-2.5864 0-4.668 2.0835-4.668 4.6699v56.965c0 2.5864 2.0816 4.668 4.668 4.668h16.559c2.5864 0 4.6699-2.0816 4.6699-4.668v-56.965c0-2.5864-2.0835-4.6699-4.6699-4.6699h-16.559z" fill-opacity="0" transform="matrix(1.0025 0 0 .96796 -1.4683 310.03)" filter="url(#filter4193)" stroke="#000" stroke-linecap="round" stroke-width="26.534"/>
+  </g>
+ </g>
+</svg>

@@ -49,7 +49,7 @@ tagline: Supporting tagline
 <div class="row">
 	<div class="col-sm-6 col-md-4">
 		<div class="thumbnail">
-	        <a href="hummingbird"><img src="hummingbird/logo.png" alt="Hummingbird"></a>
+	        <a href="hummingbird"><img src="hummingbird/demo.png" alt="Hummingbird"></a>
 			<div class="caption">
 				<a href="hummingbird"><h3>Hummingbird</h3></a>
 				<p>A framework for online analysis of Single Particle Imaging experiments using X-ray free-electron lasers. </p>

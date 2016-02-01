@@ -14,7 +14,7 @@ markdown: redcarpet
 title : SPIhub
 tagline: Site Tagline
 author :
-  name : SPIhub team
+  name : SPIhub
   email : developers@spihub.io
   github : https://github.com/SPIhub
   twitter : username

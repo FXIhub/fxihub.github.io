@@ -7,7 +7,7 @@ title: Hummingbird
 <hr>
 
 ### Download
-Download the [latest release](https://github.com/SPIhub/hummingbird/releases) or clone the project from [Github](https://github.com/SPIhub/hummingbird).
+Download the [latest release](https://github.com/FXIhub/hummingbird/releases) or clone the project from [Github](https://github.com/FXIhub/hummingbird).
 
 ### How to cite
 Benedikt J. Daurer, Max F. Hantke, Carl Nettelblad and Filipe R.N.C. Maia, 2016. 

@@ -1,11 +1,11 @@
 ---
 layout: main
-title: SPIhub - a collaborative repository
+title: FXIhub - a collaborative repository
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
-> **SPIhub** is a collaborative repository for Flash X-ray Imaging (FXI). The goal is to host and maintain a comprehensive and versatile collection of tools and other resources to be used in the community of FXI with modern X-ray sources.
+> **FXIhub** is a collaborative repository for Flash X-ray Imaging (FXI). The goal is to host and maintain a comprehensive and versatile collection of tools and other resources to be used in the community of FXI with modern X-ray sources.
 
 <hr>
 

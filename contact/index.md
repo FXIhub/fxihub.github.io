@@ -3,7 +3,7 @@ layout: main
 title: Contact
 ---
 
-For questions, comments, bug reports please write to our mailing list: [fxihub@googlegroups.com](fxihub@googlegroups.com).
+For questions, comments, bug reports please write to our mailing list: [fxihub@googlegroups.com](mailto:fxihub@googlegroups.com).
 
 ## The FXIhub team
 <div class="row">

@@ -63,6 +63,24 @@ For questions, comments, bug reports please write to our mailing list: [fxihub@g
 			</div>
 		</div>
 	</div>
+    <div class="col-xs-6 col-sm-4 col-md-2">
+		<div class="thumbnail">
+	        <img src="alberto.jpg" alt="alberto">
+			<div class="caption">
+                <h5>Alberto Pietrini</h5>
+                <p>Uppsala University</p>
+			</div>
+		</div>
+	</div>
+    <div class="col-xs-6 col-sm-4 col-md-2">
+		<div class="thumbnail">
+	        <img src="ida.jpg" alt="ida">
+			<div class="caption">
+                <h5>Ida Lundholm</h5>
+                <p>Uppsala University</p>
+			</div>
+		</div>
+	</div>
     <!--<div class="col-xs-6 col-sm-4 col-md-2">
 		<div class="thumbnail">
 	        <img src="jonas.jpg" alt="jonas">

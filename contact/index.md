@@ -83,12 +83,11 @@ For questions, comments, bug reports please write to our mailing list: [fxihub@g
 	</div>
     <div class="col-xs-6 col-sm-4 col-md-2">
 		<div class="thumbnail">
-	        <img src="jonas.jpg" alt="jonas">
-			<div class="caption">
+            <img src="jonas.jpg" alt="jonas">
+            <div class="caption">
                 <h5>Jonas Sellberg</h5>
                 <p>KTH Stockholm</p>
 			</div>
 		</div>
 	</div>
 </div>
-

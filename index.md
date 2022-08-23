@@ -16,7 +16,7 @@ tagline: Supporting tagline
 			<div class="caption">
 				<a href="hummingbird"><h3>Hummingbird</h3></a>
 				<p>Monitoring and analysing flash X-ray imaging experiments in real time.</p>
-				<p><a href="https://github.com/SPIhub/hummingbird" class="btn btn-danger" role="button">Code on Github</a> <a href="hummingbird/docs" class="btn btn-info" role="button">Documentation</a></p>
+				<p><a href="https://github.com/FXIhub/hummingbird" class="btn btn-danger" role="button">Code on Github</a> <a href="hummingbird/" class="btn btn-info" role="button">Documentation</a></p>
 			</div>
 		</div>
 	</div>
